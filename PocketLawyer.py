@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
-"""Google Cloud Speech API sample application using the streaming API.
-
+"""
 NOTE: This module requires the dependencies `pyaudio` and `termcolor`.
 To install using pip:
 
